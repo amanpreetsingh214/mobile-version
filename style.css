@@ -81,7 +81,7 @@ footer{
 }
 i{
     background-color: white;
-    color: rgb(41, 40, 40);
+    color: red;
 }
 @media only screen and (max-width:800px){
     .card{
